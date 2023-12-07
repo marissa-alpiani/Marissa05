@@ -1,8 +1,6 @@
-Kelompok Praktikum Fisika Komputasi
-
-Anggota Kelompok:
-
-Marissa Alpiani
+# Kelompok Praktikum Fisika Komputasi
+#Anggota Kelompok:
+#Marissa Alpiani
 
 Andri Mulyawan
 
