@@ -1,5 +1,5 @@
 # Kelompok Praktikum Fisika Komputasi
-#Anggota Kelompok:
+# Anggota Kelompok:
 #
 # Marissa Alpiani
 # Andri Mulyawan
