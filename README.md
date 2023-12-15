@@ -1,2 +1,2 @@
-# Kelompok Praktikum Fisika Komputasi
+# Metode Numerik dari Integral 
 Marissa Alpiani
